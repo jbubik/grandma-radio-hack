@@ -30,8 +30,8 @@ After first action the AVR goes to sleep mode indefinitely.
 ## Assembly
 See images for inspiration. Use your skills to hack this together.
 
-![](img/01 radio type.png)
-![](img/02 radio top view.png)
-![](img/03 radio inside.png)
-![](img/04 pinout ATtiny13.png)
-![](img/05 schematics.png)
+![](img/01%20radio%20type.png)
+![](img/02%20radio%20top%20view.png)
+![](img/03%20radio%20inside.png)
+![](img/04%20pinout%20ATtiny13.png)
+![](img/05%20schematics.png)
